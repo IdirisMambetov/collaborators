@@ -5,3 +5,6 @@ class Asko:
     def info(self):
         return self.n
 
+class Nursultan:
+    def __init__(self):
+        super().__init__("Nursulan")
